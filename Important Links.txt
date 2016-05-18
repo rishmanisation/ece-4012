@@ -1,0 +1,2 @@
+Link to the github repository containing the visual odometry algorithm: https://github.com/avisingh599/mono-vo
+Link to the datasets used in the visual odometry algorithm: http://www.cvlibs.net/datasets/kitti/eval_odometry.php
